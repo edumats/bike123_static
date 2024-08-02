@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "montagem-bicicleta-domicilio",
+    "name": "Montagem de Bicicleta à Domicílio",
+    "shortName": "Montagem à Domicílio",
+    "price": "250,00",
+    "purchaseLink": "https://pag.ae/7ZY2bDMsR",
+    "description": "O serviço de montagem de bicicleta à domicílio realiza a montagem de bicicletas novas, que vêm parcialmente desmontadas e necessitam de regulagem antes de rodar. Em até 60 minutos ela fica pronta para você!",
+    "shortFeatures": [
+      "Visita do técnico",
+      "Ajuste dos câmbios e freios",
+      "Conferência dos apertos dos parafusos",
+      "Ajuste de posição e ângulo do guidão e selim adequados ao ciclista",
+      "Instalação de acessórios inclusos na bicicleta"
+    ],
+    "features": [
+      "Visita do técnico no local",
+      "Montagem da bicicleta",
+      "Ajuste dos câmbios e freios",
+      "Conferência dos apertos dos parafusos",
+      "Enchimento dos pneus até a pressão correta",
+      "Teste para verificar funcionamento geral",
+      "Ajuste de guidão e selim adequados ao ciclista"
+    ]
+  },
+  {
+    "slug": "revisao-domicilio",
+    "name": "Revisão Expert à Domicílio",
+    "shortName": "Revisão Expert",
+    "price": "300,00",
+    "purchaseLink": "https://pag.ae/7ZY2ideEt",
+    "description": "O serviço de montagem de bicicleta à domicílio realiza a montagem de uma bicicleta nova. Bicletas compradas novas vêm parcialmente desmontadas e necessitam de regulagem antes de rodar. Em até 60 minutos ela fica pronta para você!",
+    "shortFeatures": [
+      "Visita do técnico no local",
+      "Lavagem à seco e polimento",
+      "Ajuste dos câmbios e freios",
+      "Limpeza e lubrificação da corrente",
+      "Verificação do funcionamento geral e orientações de cuidados"
+    ],
+    "features": [
+      "Visita do técnico no local",
+      "Lavagem da bicicleta à seco e polimento especial",
+      "Ajuste dos câmbios e freios",
+      "Checagem geral do estado da bicicleta",
+      "Calibragem dos pneus",
+      "Limpeza e lubrificação da corrente",
+      "Medição do desgaste da corrente",
+      "Teste para verificar funcionamento geral",
+      "Orientação sobre cuidados básicos"
+    ]
+  },
+  {
+    "slug": "conserto-pneu-furado-domicilio",
+    "name": "Conserto de Pneu Furado à Domicílio",
+    "shortName": "Conserto Pneu Furado",
+    "price": "150,00",
+    "purchaseLink": "https://pag.ae/7ZY2mBM-o",
+    "description": "O serviço de conserto de pneu furado é indicado para bicicletas convencionais (que não são elétricas). O técnico irá até onde a bicicleta estiver e fará a troca da câmara de ar por uma nova, verificando se não há nada que possa ocasionar um novo furo",
+    "shortFeatures": [
+      "Visita do técnico no local",
+      "Incluso uma câmara de ar nova",
+      "Checagem do estado do pneu e aro",
+      "Para bicicletas convencionais, que não são elétricas"
+    ],
+    "features": [
+      "Visita do técnico no local",
+      "Valor para o conserto de um pneu furado",
+      "Incluso uma câmara de ar nova",
+      "Checagem do estado do pneu e aro"
+    ]
+  },
+  {
+    "slug": "embalar-bicicleta-viagem-domicilio",
+    "name": "Embalar Bicicleta para Viagem",
+    "shortName": "Embalar Bicicleta",
+    "price": "330,00",
+    "purchaseLink": "https://pag.ae/7ZY2uV8G3",
+    "description": "O serviço de embalagem é indicado para bicicletas que irão fazer uma viagem aérea. O técnico irá até onde a bicicleta estiver e fará uma desmontagem parcial da bicicleta para proteger a bicicleta durante a viagem",
+    "shortFeatures": [
+      "Visita do técnico no local",
+      "Incluso uma embalagem para transporte",
+      "Desmontagem parcial para acomodação na caixa",
+      "Para bicicletas sem motor"
+    ],
+    "features": [
+      "Visita do técnico até o local",
+      "Incluso embalagem de papelão para transportar a bicicleta",
+      "Incluso desmontagem parcial da bicicleta para acomodação na caixa",
+      "Incluso proteções para evitar batidas e ralados internos"
+    ]
+  },
+  {
+    "slug": "conserto-pneu-furado-bicicleta-eletrica-domicilio",
+    "name": "Conserto de Pneu Furado em Bicicleta Elétrica",
+    "shortName": "Conserto Pneu Furado Elétrica",
+    "price": "250,00",
+    "purchaseLink": "https://pag.ae/7ZY2nAfcP",
+    "description": "Esse serviço de conserto de pneu furado é indicado para bicicletas elétricas. O técnico irá até onde a bicicleta estiver e fará a troca da câmara de ar por uma nova, verificando se não há nada que possa ocasionar um novo furo",
+    "shortFeatures": [
+      "Visita do técnico no local",
+      "Incluso uma câmara de ar nova",
+      "Checagem do estado do pneu e aro",
+      "Para bicicletas elétricas"
+    ],
+    "features": [
+      "Incluso visita do técnico até o local",
+      "Valor para o conserto de um pneu furado",
+      "Incluso uma câmara de ar nova",
+      "Checagem do estado do pneu e aro para que não fure mais"
+    ]
+  },
+  {
+    "slug": "montagem-bicicleta-ergometrica-domicilio",
+    "name": "Montagem de Bicicleta Ergométrica",
+    "shortName": "Montagem à Domicílio",
+    "price": "330,00",
+    "purchaseLink": "https://pag.ae/7ZY2eYBpr",
+    "description": "O serviço de montagem de bicicleta ergométrica à domicílio realiza a montagem de uma bicicleta ergométrica nova, que vêm parcialmente desmontadas e necessitam de regulagem antes de serem usadas. Em até 60 minutos ela fica pronta para você!",
+    "shortFeatures": [
+      "Visita do técnico no local",
+      "Montagem e instalação",
+      "Verificação de segurança",
+      "Orientação sobre cuidados básicos"
+    ],
+    "features": [
+      "Visita do técnico para montagem no local",
+      "Montagem da bicicleta ergométrica",
+      "Conferência dos apertos dos parafusos",
+      "Teste para verificar funcionamento geral"
+    ]
+  }
+]
