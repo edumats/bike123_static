@@ -32,7 +32,7 @@ export function ContactForm() {
       </CardHeader>
       <CardContent>
         <form className="grid gap-4" action="https://api.web3forms.com/submit" method="POST">
-        <Input type="hidden" name="access_key" value="3ce71964-55a9-41e7-8066-3300ead45259" />
+          <Input type="hidden" name="access_key" value="80f87aa0-b2d9-43fc-add2-7d6a7369e9bf" />
         <Input type="hidden" name="from_name" value="Bike123" />
         <Input type="hidden" name="subject" value="Novo Contato Bike123" />
         <Input type="hidden" name="redirect" value="https://d2xhv7eva5h3do.cloudfront.net/contato/confirmacao/" />

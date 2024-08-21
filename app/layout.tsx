@@ -17,8 +17,18 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: "Bike123 - Experts em manutenção de bicicletas",
+  title: {
+    template: "%s | Bike123", // %s will be replaced with the page's title
+    default: "Experts em manutenção de bicicletas",
+  },
   description: "Montagens, revisões e reparos de bicicletas",
+  openGraph: {
+    title: "Bike123",
+    description: "Montagens, revisões e reparos de bicicletas",
+    locale: "pt_BR",
+    type: "website",
+    images: "https://bike123-static-assets.s3.amazonaws.com/BIKE123_MECANICOS_161223_011-1.webp"
+  },
 };
 
 export default function RootLayout({

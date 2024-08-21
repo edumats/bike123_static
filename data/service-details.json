@@ -5,6 +5,7 @@
     "shortName": "Montagem à Domicílio",
     "price": "250,00",
     "purchaseLink": "https://pag.ae/7ZY2bDMsR",
+    "image": "https://bike123-static-assets.s3.amazonaws.com/BIKE123_MECANICOS_161223_008.webp",
     "description": "O serviço de montagem de bicicleta à domicílio realiza a montagem de bicicletas novas, que vêm parcialmente desmontadas e necessitam de regulagem antes de rodar. Em até 60 minutos ela fica pronta para você!",
     "shortFeatures": [
       "Visita do técnico",
@@ -29,7 +30,8 @@
     "shortName": "Revisão Expert",
     "price": "300,00",
     "purchaseLink": "https://pag.ae/7ZY2ideEt",
-    "description": "O serviço de montagem de bicicleta à domicílio realiza a montagem de uma bicicleta nova. Bicletas compradas novas vêm parcialmente desmontadas e necessitam de regulagem antes de rodar. Em até 60 minutos ela fica pronta para você!",
+    "image": "https://bike123-static-assets.s3.amazonaws.com/BIKE123_MECANICOS_161226_038.webp",
+    "description": "A Revisão Expert à domicílio realiza: ajuste de câmbios e freios, lavagem à seco, e checagem do funcionamento geral da bicicleta.",
     "shortFeatures": [
       "Visita do técnico no local",
       "Lavagem à seco e polimento",
@@ -55,7 +57,8 @@
     "shortName": "Conserto Pneu Furado",
     "price": "150,00",
     "purchaseLink": "https://pag.ae/7ZY2mBM-o",
-    "description": "O serviço de conserto de pneu furado é indicado para bicicletas convencionais (que não são elétricas). O técnico irá até onde a bicicleta estiver e fará a troca da câmara de ar por uma nova, verificando se não há nada que possa ocasionar um novo furo",
+    "image": "https://bike123-static-assets.s3.amazonaws.com/BIKE123_MECANICOS_161226_073.webp",
+    "description": "O serviço de conserto de pneu furado à domicílio é indicado para bicicletas convencionais (que não são elétricas). O técnico irá até onde a bicicleta estiver e fará a troca da câmara de ar por uma nova, verificando se não há nada que possa ocasionar um novo furo",
     "shortFeatures": [
       "Visita do técnico no local",
       "Incluso uma câmara de ar nova",
@@ -75,7 +78,8 @@
     "shortName": "Embalar Bicicleta",
     "price": "330,00",
     "purchaseLink": "https://pag.ae/7ZY2uV8G3",
-    "description": "O serviço de embalagem é indicado para bicicletas que irão fazer uma viagem aérea. O técnico irá até onde a bicicleta estiver e fará uma desmontagem parcial da bicicleta para proteger a bicicleta durante a viagem",
+    "image": "https://bike123-static-assets.s3.amazonaws.com/BIKE123_MECANICOS_161226_072.webp",
+    "description": "O serviço de embalagem à domicílio é indicado para bicicletas que irão fazer uma viagem aérea. O técnico irá até onde a bicicleta estiver e fará uma desmontagem parcial da bicicleta para proteger a bicicleta durante a viagem",
     "shortFeatures": [
       "Visita do técnico no local",
       "Incluso uma embalagem para transporte",
@@ -95,7 +99,8 @@
     "shortName": "Conserto Pneu Furado Elétrica",
     "price": "250,00",
     "purchaseLink": "https://pag.ae/7ZY2nAfcP",
-    "description": "Esse serviço de conserto de pneu furado é indicado para bicicletas elétricas. O técnico irá até onde a bicicleta estiver e fará a troca da câmara de ar por uma nova, verificando se não há nada que possa ocasionar um novo furo",
+    "image": "https://bike123-static-assets.s3.amazonaws.com/BIKE123_MECANICOS_161226_060.webp",
+    "description": "O serviço de conserto de pneu furado à domicílio é indicado para bicicletas elétricas. O técnico irá até onde a bicicleta estiver e fará a troca da câmara de ar por uma nova, verificando se não há nada que possa ocasionar um novo furo",
     "shortFeatures": [
       "Visita do técnico no local",
       "Incluso uma câmara de ar nova",
@@ -115,6 +120,7 @@
     "shortName": "Montagem à Domicílio",
     "price": "330,00",
     "purchaseLink": "https://pag.ae/7ZY2eYBpr",
+    "image": "https://bike123-static-assets.s3.amazonaws.com/BIKE123_MECANICOS_161223_014.webp",
     "description": "O serviço de montagem de bicicleta ergométrica à domicílio realiza a montagem de uma bicicleta ergométrica nova, que vêm parcialmente desmontadas e necessitam de regulagem antes de serem usadas. Em até 60 minutos ela fica pronta para você!",
     "shortFeatures": [
       "Visita do técnico no local",

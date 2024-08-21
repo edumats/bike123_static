@@ -7,7 +7,7 @@ export default function ServiceForm({ service }: { service: Service }) {
     return (
       <div className="w-full max-w-[800px] mx-auto px-4 py-2 md:px-6 mb-12">
         <form className="space-y-4 md:space-y-6" method="POST" action="https://api.web3forms.com/submit">
-          <input type="hidden" name="access_key" value="3ce71964-55a9-41e7-8066-3300ead45259" readOnly />
+          <input type="hidden" name="access_key" value="80f87aa0-b2d9-43fc-add2-7d6a7369e9bf" readOnly />
           <input type="checkbox" name="botcheck" className="hidden" />
           <input type="hidden" name="from_name" value="Bike123" readOnly />
           <input type="hidden" name="subject" value={service.name + " - Novo Serviço"} readOnly />
