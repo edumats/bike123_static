@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Bike123 Website
 
-## Getting Started
+This is a Jamstack website built using [Next.js](https://nextjs.org/), leveraging static exports for optimized performance and deployment flexibility. The app is designed to deliver a fast, responsive, and scalable user experience.
 
-First, run the development server:
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Configuration](#configuration)
+- [Scripts](#scripts)
+
+## Introduction
+
+bike123_static is a modern web application designed with the Jamstack architecture, utilizing Next.js to generate static pages. This approach ensures high performance, scalability, and ease of deployment across various hosting platforms.
+
+## Features
+
+- **Static Generation:** The website is pre-rendered using Next.js's static generation, improving load times and SEO.
+- **UI Components:** Integration of [Radix UI](https://www.radix-ui.com/) for accessible, customizable components.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+- **TypeScript Support:** Ensures type safety throughout the development process.
+- **Linting and Formatting:** Eslint configured for maintaining code quality.
+
+## Installation
+
+To get started with bike123_static, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/edumats/bike123_static.git
+cd bike123_static
+npm install
+````
+
+## Usage
+### Development Server
+
+To start the development server, run:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This will launch the app at http://localhost:3000, where you can view and interact with the website during development.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Building for Production
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To generate static files for production deployment:
+```bash
+npm run build
+````
+The static files will be created in the out directory, ready for deployment on any static hosting service.
+### Running in Production
 
-## Learn More
+After building, take the contents of `out` folder and upload to a AWS S3 bucket and configure the bucket to [host a website](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html).
 
-To learn more about Next.js, take a look at the following resources:
+## Dependencies
+bike123_static utilizes the following key dependencies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js: 14.2.5
+- React: ^18
+- Radix UI: Components like Dialog, Dropdown Menu, Label, etc.
+- Tailwind CSS: ^3.4.4 for styling
+- TypeScript: ^5 for static type checking
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+For a full list of dependencies, refer to the `package.json` file.
 
-## Deploy on Vercel
+## Configuration
+- ESLint: Configured for Next.js to enforce consistent code quality.
+- Tailwind CSS: Customize the styling through the tailwind.config.js file.
+- TypeScript: Type definitions and configurations are available in tsconfig.json.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Scripts
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Here are some useful scripts defined in package.json:
+
+- npm run dev - Starts the development server.
+- npm run build - Generates static files for production.
+- npm start - Runs the app in production mode.
+- npm run lint - Runs ESLint to check for code issues.
