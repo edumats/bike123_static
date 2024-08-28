@@ -6,7 +6,7 @@ import { ReviewGoogleBusiness } from "@/components/review-google-business";
 
 export const metadata = {
   title: 'Experts em manutenção de bicicletas | Bike123',
-  description: "Montagens, revisões e reparos de bicicletas",
+  description: "Realizamos montagens, revisões e reparos de bicicletas. Atendemos à domicílio em todo o Brasil.",
   openGraph: {
     title: 'Experts em manutenção de bicicletas | Bike123',
     description: "Montagens, revisões e reparos de bicicletas",

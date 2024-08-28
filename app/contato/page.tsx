@@ -1,8 +1,13 @@
 import { ContactForm } from "@/components/contact-form"
+import { Metadata } from "next"
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'Contato | Bike123',
-  description: "Tem dúvidas ou precisa de um serviço especial? Fale com a gente!",
+  description: "Entre em contato conosco para dúvidas ou serviços customizados",
+  robots: {
+    index: false,
+    follow: false
+  },
   openGraph: {
     title: 'Contato | Bike123',
     description: "Tem dúvidas ou precisa de um serviço especial? Fale com a gente!",
