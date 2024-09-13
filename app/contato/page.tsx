@@ -2,7 +2,7 @@ import { ContactForm } from "@/components/contact-form"
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: 'Contato | Bike123',
+  title: 'Contato',
   description: "Entre em contato conosco para dúvidas ou serviços customizados",
   robots: {
     index: false,

@@ -1,0 +1,5 @@
+User-Agent = *
+Allow: /
+Disallow: /contato/
+
+Sitemap: https://bike123.com.br/sitemap.xml

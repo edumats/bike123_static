@@ -3,9 +3,9 @@ import { ServiceDetails } from "@/components/service-details"
 import { Service } from "@/app/types/definitions"
 import { NotFound } from "@/components/not-found"
 import bike123Services from "@/data/service-details.json"
-import { title } from "process"
+import type { Metadata } from "next"
 
-export async function generateMetadata({ params }: { params: { slug: string }}) {
+export async function generateMetadata({ params }: { params: { slug: string }}): Promise<Metadata> {
     const { slug } = params
     const service = bike123Services.find((service: Service) => service.slug === slug)
 
@@ -21,7 +21,11 @@ export async function generateMetadata({ params }: { params: { slug: string }}) 
         description: service.description,
         url: `https://bike123.com.br/servico/${slug}`,
         images: service.image
-      }
+      },
+      robots: {
+        index: true,
+        follow: false,
+      },
     }
   }
 
